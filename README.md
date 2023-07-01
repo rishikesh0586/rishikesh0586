@@ -1,3 +1,10 @@
+
+
+![logo](https://github.com/rishikesh0586/rishikesh0586/blob/main/Untitled%20Design.png)
+
+<h1> Hi I am Rishikesh Pandey</h1>
+<h2>Java and Javascript Developer</h2>
+
 # 💫 About Me:
 🔭   Java || JS || React || Nodejs<br>👯 Let's collaborate on App || Games <br>🤝 I’m looking for help with Ui Design<br>🌱 I’m currently learning react-native<br>💬 Ask me about web || Apps || games<br>⚡ Leetcode || codeStudio 200+ problem
 
